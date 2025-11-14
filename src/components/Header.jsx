@@ -36,7 +36,7 @@ export default function Header() {
 
 // 💅 Estilos do Header
 const HeaderContainer = styled.header`
-  background-color: #1e293b;
+  background-color: #e2238fff;
   color: white;
   padding: 1rem 2rem;
   position: fixed;
@@ -95,6 +95,6 @@ const LoginButton = styled.button`
   transition: color 0.2s ease;
 
   &:hover {
-    color: #10b981;
+    color: #3650ffff;
   }
 `;
